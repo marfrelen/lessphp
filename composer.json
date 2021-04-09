@@ -1,17 +1,17 @@
 {
-    "name": "leafo/lessphp",
+    "name": "marfrelen/lessphp",
     "type": "library",
     "description": "lessphp is a compiler for LESS written in PHP.",
-    "homepage": "http://leafo.net/lessphp/",
+    "homepage": "http://marfrelen.de/lessphp/",
     "license": [
         "MIT",
         "GPL-3.0"
     ],
     "authors": [
         {
-            "name": "Leaf Corcoran",
-            "email": "leafot@gmail.com",
-            "homepage": "http://leafo.net"
+            "name": "Markus Lenz",
+            "email": "markus@marfrelen.de",
+            "homepage": "https://marfrelen.de"
         }
     ],
     "bin": [
